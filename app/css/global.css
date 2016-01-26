@@ -1,0 +1,14 @@
+.wrapper {
+	width: 600px;
+	margin: 0 auto;
+}
+
+h1 {
+	color: red;
+}
+
+.first-p {
+	padding-left: 20px;
+	margin: 20px;
+	border-left: 3px solid black;
+}
